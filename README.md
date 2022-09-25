@@ -31,6 +31,7 @@ To use these fixes:
   - Made for those with protan or deutan CVD (red/green color blindess).
 - Better Techno Pig
   - Creates a 1 in 50 chance of a pig wearing a gold bejeweled crown.
+  - Pigs always wear a gold bejeweled crown when named techno, Techno, technoblade, or Technoblade.
   - **Requires** OptiFine or [Entity Texture Features](https://modrinth.com/mod/entitytexturefeatures).
 - *Green Jungle Wood* Redux
   - Recolours all Jungle Wood related blocks and items to be greener.
