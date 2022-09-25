@@ -1,0 +1,6 @@
+{
+	"pack": {
+		"pack_format": 9,
+		"description": [{"text":"Corrected Ghast Tear Holding 1.19","color":"gold"},{"text":"Fixes an issue where a Ghast Tear appears to float above the player's hand.","color":"yellow"}]
+	}
+}
