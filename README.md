@@ -6,6 +6,7 @@ Tweaks to the Vanilla Tweaks.
 
 - *Brighter Nether* & *Lower Crimson Nylium Sides*
 - *Brighter Nether* & *Lower Warped Nylium Sides*
+- *Smoother Stones* & *Double Slab Fix*
 - *Lower Snow Sides* & *Whiter Snow*
 - *Don't Eat the Bowl!* & *Smaller Utilities*
 
