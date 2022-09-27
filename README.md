@@ -7,7 +7,6 @@ Tweaks to the Vanilla Tweaks.
 - *Brighter Nether* & *Lower Crimson Nylium Sides*
 - *Brighter Nether* & *Lower Warped Nylium Sides*
 - *Lower Snow Sides* & *Whiter Snow*
-- *Smoother Stones* & *Double Slab Fixes*
 - *Don't Eat the Bowl!* & *Smaller Utilities*
 
 To use these fixes:
@@ -45,6 +44,8 @@ To use these fixes:
 - *Green Jungle Wood* Redux w/ Circular Log Top & Pixel Consistent Sign
   - Recolours all Jungle Wood related blocks and items to be greener, and includes a circular log top and pixel consistent sign.
   - Compatable with *Variated Planks*.
+
+Credit to [Stridey](https://www.planetminecraft.com/texture-pack/vt-green-jungle-wood/) for the green jungle wood textures (except the pixel consistent sign and boat with chest). **Rights to those assets are reserved by Stridey and are not released under the terms of Unlicense like the rest of the project.**
 
 ## Additional Retros
 
