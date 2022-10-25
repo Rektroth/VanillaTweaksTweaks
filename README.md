@@ -20,9 +20,25 @@ To use these fixes:
   - Changes End Rod item models to look like regular items.
 - Dragon Head Icon
   - Changes Dragon Head item models to look like regular items like *Old Mob Head Icons*.
-- Wood Netherite Tool Handles
-  - Changes netherite tool sprites to have wood colored handles.
-  - Compatable with *Dimishing Tools*.
+- Black Netherite
+  - Changes the texture of netherite to make it black.
+  - Compatable with *Diminishing Tools*.
+- Black Netherite w/ Classic Netherite Armor
+  - Changes the texture of netherite to make it black, and includes netherite armor in the style of other armors.
+  - Compatable with *Diminishing Tools*.
+- Black Netherite w/ Wood Netherite Handles
+  - Changes the texture of netherite to make it black, and includes netherite tool sprites with wood colored handles.
+  - Compatable with *Diminishing Tools*.
+- Black Netherite w/ Classic Netherite Armor & Wood Netherite Handles
+  - Changes the texture of netherite to make it black, and includes netherite armor in the style of other armors and netherite tool sprites with wood colored handles.
+  - Compatable with *Diminishing Tools*.
+- Wood Netherite Gear Handles
+  - Changes netherite gear sprites to have wood colored handles.
+  - Compatable with *Diminishing Tools*.
+- Black Netherite Scrap
+  - Changes the texture of netherite scrap to make it black.
+- Black Ancient Debris
+  - Changes the texture of ancient debris to make it black.
 - Rainbow XP Orbs
   - Changes the default flashing green XP orbs to rainbow shifting XP orbs.
   - **Requires** OptiFine or [Colormatic](https://modrinth.com/mod/colormatic).
