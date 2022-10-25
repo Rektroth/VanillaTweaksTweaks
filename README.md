@@ -23,13 +23,13 @@ To use these fixes:
 - Black Netherite
   - Changes the texture of netherite to make it black.
   - Compatible with *Diminishing Tools*.
-- Black Netherite w/ Classic Netherite Armor
+- Black Netherite w/ *Classic Netherite Armor*
   - Changes the texture of netherite to make it black, and includes netherite armor in the style of other armors.
   - Compatible with *Diminishing Tools*.
-- Black Netherite w/ Wood Netherite Handles
+- Black Netherite w/ *Wood Netherite Handles*
   - Changes the texture of netherite to make it black, and includes netherite tool sprites with wood colored handles.
   - Compatible with *Diminishing Tools*.
-- Black Netherite w/ Classic Netherite Armor & Wood Netherite Handles
+- Black Netherite w/ *Classic Netherite Armor* & *Wood Netherite Handles*
   - Changes the texture of netherite to make it black, and includes netherite armor in the style of other armors and netherite tool sprites with wood colored handles.
   - Compatible with *Diminishing Tools*.
 - Wood Netherite Gear Handles
