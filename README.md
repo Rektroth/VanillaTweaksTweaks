@@ -2,7 +2,7 @@
 
 Tweaks to the Vanilla Tweaks.
 
-## Compatability Fixes
+## Compatibility Fixes
 
 - *Brighter Nether* & *Lower Crimson Nylium Sides*
 - *Brighter Nether* & *Lower Warped Nylium Sides*
@@ -11,7 +11,7 @@ Tweaks to the Vanilla Tweaks.
 - *Don't Eat the Bowl!* & *Smaller Utilities*
 
 To use these fixes:
-- ensure that the two incompatable tweaks are included in your custom Vanilla Tweaks pack
+- ensure that the two incompatible tweaks are included in your custom Vanilla Tweaks pack
 - place the fixes at the highest priority so that they override your custom pack
 
 ## Additional Aesthetics
@@ -22,19 +22,19 @@ To use these fixes:
   - Changes Dragon Head item models to look like regular items like *Old Mob Head Icons*.
 - Black Netherite
   - Changes the texture of netherite to make it black.
-  - Compatable with *Diminishing Tools*.
+  - Compatible with *Diminishing Tools*.
 - Black Netherite w/ Classic Netherite Armor
   - Changes the texture of netherite to make it black, and includes netherite armor in the style of other armors.
-  - Compatable with *Diminishing Tools*.
+  - Compatible with *Diminishing Tools*.
 - Black Netherite w/ Wood Netherite Handles
   - Changes the texture of netherite to make it black, and includes netherite tool sprites with wood colored handles.
-  - Compatable with *Diminishing Tools*.
+  - Compatible with *Diminishing Tools*.
 - Black Netherite w/ Classic Netherite Armor & Wood Netherite Handles
   - Changes the texture of netherite to make it black, and includes netherite armor in the style of other armors and netherite tool sprites with wood colored handles.
-  - Compatable with *Diminishing Tools*.
+  - Compatible with *Diminishing Tools*.
 - Wood Netherite Gear Handles
   - Changes netherite gear sprites to have wood colored handles.
-  - Compatable with *Diminishing Tools*.
+  - Compatible with *Diminishing Tools*.
 - Black Netherite Scrap
   - Changes the texture of netherite scrap to make it black.
 - Black Ancient Debris
@@ -47,16 +47,16 @@ To use these fixes:
   - Made for those with protan or deutan CVD (red/green color blindess).
 - *Green Jungle Wood* Redux
   - Recolours all Jungle Wood related blocks and items to be greener.
-  - Compatable with *Variated Planks*.
+  - Compatible with *Variated Planks*.
 - *Green Jungle Wood* Redux w/ Circular Log Top
   - Recolours all Jungle Wood related blocks and items to be greener, and includes a circular log top.
-  - Compatable with *Variated Planks*.
+  - Compatible with *Variated Planks*.
 - *Green Jungle Wood* Redux w/ Pixel Consistent Sign
   - Recolours all Jungle Wood related blocks and items to be greener, and includes a pixel consistent sign.
-  - Compatable with *Variated Planks*.
+  - Compatible with *Variated Planks*.
 - *Green Jungle Wood* Redux w/ Circular Log Top & Pixel Consistent Sign
   - Recolours all Jungle Wood related blocks and items to be greener, and includes a circular log top and pixel consistent sign.
-  - Compatable with *Variated Planks*.
+  - Compatible with *Variated Planks*.
 
 Credit to [Stridey](https://www.planetminecraft.com/texture-pack/vt-green-jungle-wood/) for the green jungle wood textures (except the pixel consistent sign and boat with chest). **Rights to those assets are reserved by Stridey and are not released under the terms of Unlicense like the rest of the project.**
 
